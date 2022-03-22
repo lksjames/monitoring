@@ -11,7 +11,7 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: emart
+  - name: store.emart.com
     url: https://store.emart.com
 
 status-website:
