@@ -58,7 +58,7 @@ sites:
     url: https://www.good-md.com
 
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
-    url: https://www.shinsegaetvshopping.com
+    url: http://www.shinsegaetvshopping.com
 
   - name: 신세계 프라퍼티 www.shinsegaeproperty.com
     url: http://www.shinsegaeproperty.com
