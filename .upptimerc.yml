@@ -54,13 +54,8 @@ sites:
   - name: SSG.COM www.ssg.com
     url: http://www.ssg.com
 
-  - name: Goodmd www.good-md.com
-    url: https://www.good-md.com
-    headers :
-    - 'servicePointManager expect100Continue=false;'
-
-  - name: Goodmd 이광용과장님
-    url: https://total.good-md.com:5280/total/index.html
+  - name: Goodmd total.good-md.com:5280
+    url: https://total.good-md.com:5280
 
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
     url: https://www.shinsegaetvshopping.com
