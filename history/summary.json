@@ -311,19 +311,17 @@
     "icon": "https://favicons.githubusercontent.com/total.good-md.com",
     "slug": "goodmd-total-good-md-com-5280",
     "status": "up",
-    "uptime": "92.23%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "92.23%",
-    "uptimeMonth": "92.23%",
-    "uptimeYear": "92.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 795,
     "timeDay": 795,
     "timeWeek": 795,
     "timeMonth": 795,
     "timeYear": 795,
-    "dailyMinutesDown": {
-      "2022-03-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "신세계TV쇼핑 www.shinsegaetvshopping.com",
@@ -331,11 +329,11 @@
     "icon": "https://favicons.githubusercontent.com/www.shinsegaetvshopping.com",
     "slug": "tv-www-shinsegaetvshopping-com",
     "status": "down",
-    "uptime": "74.64%",
-    "uptimeDay": "74.64%",
-    "uptimeWeek": "74.64%",
-    "uptimeMonth": "74.64%",
-    "uptimeYear": "74.64%",
+    "uptime": "74.66%",
+    "uptimeDay": "74.66%",
+    "uptimeWeek": "74.66%",
+    "uptimeMonth": "74.66%",
+    "uptimeYear": "74.66%",
     "time": 795,
     "timeDay": 795,
     "timeWeek": 795,
@@ -351,19 +349,17 @@
     "icon": "https://favicons.githubusercontent.com/www.shinsegaeproperty.com",
     "slug": "www-shinsegaeproperty-com",
     "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "96.58%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 617,
     "timeDay": 617,
     "timeWeek": 617,
     "timeMonth": 617,
     "timeYear": 617,
-    "dailyMinutesDown": {
-      "2022-03-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "접속실패 테스트 www.google.com",
@@ -371,18 +367,16 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "www-google-com",
     "status": "up",
-    "uptime": "95.13%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "95.13%",
-    "uptimeYear": "95.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2022-03-23": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
