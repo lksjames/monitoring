@@ -4,13 +4,13 @@ repo: monitoring # The name of this repository
 
 sites:
   - name: 이마트 store.emart.com
-    url: https://store.emart.com
+    url: https://store.emartemart.com
   
   - name: 신세계닷컴 www.shinsegae.com
-    url: http://www.shinsegae.com
+    url: http://www.shinsegaeemart.com
 
   - name: 에브리데이 www.emarteveryday.co.kr
-    url: http://www.emarteveryday.co.kr
+    url: http://www.emarteverydayemart.co.kr
 
   - name: 신세계 인터내셔날 www.sikorea.co.kr
     url: http://www.sikorea.co.kr
