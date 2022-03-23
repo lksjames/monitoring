@@ -57,7 +57,7 @@ sites:
   - name: Goodmd www.good-md.com
     url: https://www.good-md.com
     headers :
-    - 'servicePointManager expect100Continue=false'
+    - 'servicePointManager expect100Continue=false;'
 
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
     url: https://www.shinsegaetvshopping.com
