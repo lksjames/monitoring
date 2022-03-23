@@ -55,15 +55,15 @@ sites:
     url: http://www.ssg.com
 
   - name: Goodmd www.good-md.com
-    url: http://www.good-md.com/index.html
+    url: https://www.good-md.com
 
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
-    url: http://www.shinsegaetvshopping.com
+    url: https://www.shinsegaetvshopping.com
 
   - name: 신세계 프라퍼티 www.shinsegaeproperty.com
     url: http://www.shinsegaeproperty.com
 
-  - name: 접속실패 테스트
+  - name: 접속실패 테스트 www.google.com
     url: http://www.google.com
 
 
