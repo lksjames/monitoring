@@ -61,7 +61,7 @@ sites:
     url: https://www.shinsegaetvshopping.com
 
   - name: 신세계 프라퍼티 www.shinsegaeproperty.com
-    url: http://www.shinsegaeproperty.com
+    url: http://www.shinsegaeproperty.com:55555
 
   - name: 접속실패 테스트 www.google.com
     url: http://www.google.com
