@@ -64,7 +64,7 @@ sites:
     url: http://www.shinsegaeproperty.com
 
   - name: 접속실패 테스트
-    url: http://www.shinsegaeproperty_dfsdfsdf.com
+    url: http://www.google.com
 
 
 
