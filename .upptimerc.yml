@@ -3,15 +3,70 @@ owner: lksjames # Your GitHub organization or username, where this repository li
 repo: monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: store.emart.com
+  - name: 이마트 store.emart.com
     url: https://store.emart.com
- 
+  - name: 신세계닷컴 http://www.shinsegae.com
+    url: http://www.shinsegae.com
+
+  - name: 에브리데이 http://www.emarteveryday.co.kr
+    url: http://www.emarteveryday.co.kr
+
+  - name: 신세계 인터내셔날 http://www.sikorea.co.kr
+    url: http://www.sikorea.co.kr
+
+  - name: 신세계L&B http://www.shinsegae-lnb.com
+    url: http://www.shinsegae-lnb.com
+
+  - name: 신세계아이앤씨 http://www.shinsegae-inc.com
+    url: http://www.shinsegae-inc.com
+
+  - name: 조선호텔 http://www.echosunhotel.com
+    url: http://www.echosunhotel.com
+
+  - name: 신세계사이먼 https://www.premiumoutlets.co.kr
+    url: https://www.premiumoutlets.co.kr
+
+  - name: 신세계그룹 https://www.shinsegaegroupnewsroom.com
+    url: https://www.shinsegaegroupnewsroom.com
+
+  - name: 이마트24 https://www.emart24.co.kr
+    url: https://www.emart24.co.kr
+
+  - name: 자유CC https://www.jayucc.co.kr
+    url: https://www.jayucc.co.kr
+
+  - name: 스타벅스 https://www.starbucks.co.kr
+    url: https://www.starbucks.co.kr
+
+  - name: 까사미아 http://www.guud.com
+    url: http://www.guud.com
+
+  - name: 신세계푸드 http://www.shinsegaefood.com
+    url: http://www.shinsegaefood.com
+
+  - name: 스타필드 http://www.starfield.co.kr
+    url: http://www.starfield.co.kr
+
+  - name: 면세점몰 http://www.ssgdfm.com
+    url: http://www.ssgdfm.com
+
+  - name: SSG.COM http://www.ssg.com
+    url: http://www.ssg.com
+
+  - name: Goodmd https://www.good-md.com
+    url: https://www.good-md.com
+
+  - name: 신세계TV쇼핑 https://www.shinsegaetvshopping.com
+    url: https://www.shinsegaetvshopping.com
+
+  - name: 신세계 프라퍼티 http://www.shinsegaeproperty.com
+    url: http://www.shinsegaeproperty.com
+
+  - name: 접속실패 테스트
+    url: http://www.shinsegaeproperty.com
+
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
