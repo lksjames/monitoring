@@ -59,6 +59,9 @@ sites:
     headers :
     - 'servicePointManager expect100Continue=false;'
 
+  - name: Goodmd 이광용과장님
+    url: https://total.good-md.com:5280/total/index.html
+
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
     url: https://www.shinsegaetvshopping.com
 
