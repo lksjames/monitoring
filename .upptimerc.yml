@@ -56,8 +56,6 @@ sites:
 
   - name: Goodmd www.good-md.com
     url: https://www.good-md.com/index.html
-    headers:
-    - 'ServicePointManager.Expect100Continue: false'
 
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
     url: http://www.shinsegaetvshopping.com
