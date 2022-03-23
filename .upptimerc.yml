@@ -64,7 +64,7 @@ sites:
     url: http://www.shinsegaeproperty.com
 
   - name: 접속실패 테스트 www.google.com
-    url: http://www.a44google.com
+    url: http://www.google.com
 
 
 
