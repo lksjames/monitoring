@@ -329,11 +329,11 @@
     "icon": "https://favicons.githubusercontent.com/www.shinsegaetvshopping.com",
     "slug": "tv-www-shinsegaetvshopping-com",
     "status": "down",
-    "uptime": "71.26%",
-    "uptimeDay": "71.26%",
-    "uptimeWeek": "71.26%",
-    "uptimeMonth": "71.26%",
-    "uptimeYear": "71.26%",
+    "uptime": "71.28%",
+    "uptimeDay": "71.28%",
+    "uptimeWeek": "71.28%",
+    "uptimeMonth": "71.28%",
+    "uptimeYear": "71.28%",
     "time": 777,
     "timeDay": 777,
     "timeWeek": 777,
@@ -367,18 +367,16 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "www-google-com",
     "status": "up",
-    "uptime": "92.67%",
-    "uptimeDay": "92.67%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "92.67%",
-    "uptimeYear": "92.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2022-03-23": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
