@@ -58,13 +58,13 @@ sites:
     url: https://total.good-md.com:5280
 
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
-    url: https://www.shinsegaetvshopping.com/broadcast/main
+    url: https://www.shinsegaetvshopping.com
 
   - name: 신세계 프라퍼티 www.shinsegaeproperty.com
     url: http://www.shinsegaeproperty.com
 
   - name: 접속실패 테스트 www.google.com
-    url: http://www.google.com
+    url: http://www.google_Adsfasdfsadf.com
 
 
 
