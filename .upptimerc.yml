@@ -55,16 +55,16 @@ sites:
     url: http://www.ssg.com
 
   - name: Goodmd total.good-md.com:5280
-    url: https://ttttt.total.good-md.com:5280
+    url: https://total.good-md.com:5280
 
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
     url: https://www.shinsegaetvshopping.com
 
   - name: 신세계 프라퍼티 www.shinsegaeproperty.com
-    url: http://www.tttttshinsegaeproperty.com
+    url: http://www.shinsegaeproperty.com
 
   - name: 접속실패 테스트 www.google.com
-    url: http://www.tttttgoogle.com
+    url: http://www.google.com
 
 
 
