@@ -329,11 +329,11 @@
     "icon": "https://favicons.githubusercontent.com/www.shinsegaetvshopping.com",
     "slug": "tv-www-shinsegaetvshopping-com",
     "status": "down",
-    "uptime": "71.28%",
-    "uptimeDay": "71.28%",
-    "uptimeWeek": "71.28%",
-    "uptimeMonth": "71.28%",
-    "uptimeYear": "71.28%",
+    "uptime": "72.35%",
+    "uptimeDay": "72.35%",
+    "uptimeWeek": "72.35%",
+    "uptimeMonth": "72.35%",
+    "uptimeYear": "72.35%",
     "time": 777,
     "timeDay": 777,
     "timeWeek": 777,
@@ -363,20 +363,22 @@
   },
   {
     "name": "접속실패 테스트 www.google.com",
-    "url": "http://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "url": "http://www.a44google.com",
+    "icon": "https://favicons.githubusercontent.com/www.a44google.com",
     "slug": "www-google-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   }
 ]
