@@ -55,7 +55,7 @@ sites:
     url: http://www.ssg.com
 
   - name: Goodmd www.good-md.com
-    url: https://www.good-md.com
+    url: https://www.good-md.com/index.html
     headers:
     - 'ServicePointManager.Expect100Continue: false'
 
