@@ -60,6 +60,9 @@ sites:
   - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
     url: https://www.shinsegaetvshopping.com/broadcast/main
 
+  - name: 신세계TV쇼핑 모바일 m.shinsegaetvshopping.com
+    url: https://m.shinsegaetvshopping.com
+
   - name: 신세계 프라퍼티 www.shinsegaeproperty.com
     url: http://www.shinsegaeproperty.com
 
