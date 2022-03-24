@@ -57,9 +57,6 @@ sites:
   - name: Goodmd total.good-md.com:5280
     url: https://total.good-md.com:5280
 
-  - name: 신세계TV쇼핑 모바일 m.shinsegaetvshopping.com
-    url: https://m.shinsegaetvshopping.com
-
   - name: 신세계 프라퍼티 www.shinsegaeproperty.com
     url: http://www.shinsegaeproperty.com
 
