@@ -3,71 +3,71 @@ owner: lksjames # Your GitHub organization or username, where this repository li
 repo: monitoring # The name of this repository
 
 sites:
-  - name: 이마트 store.emart.com
-    url: https://store.emart.com
-  
-  - name: 신세계닷컴 www.shinsegae.com
-    url: http://www.shinsegae.com
-
-  - name: 에브리데이 www.emarteveryday.co.kr
-    url: http://www.emarteveryday.co.kr
-
-  - name: 신세계 인터내셔날 www.sikorea.co.kr
-    url: http://www.sikorea.co.kr
-
-  - name: 신세계L&B www.shinsegae-lnb.com
-    url: http://www.shinsegae-lnb.com
-
-  - name: 신세계아이앤씨 www.shinsegae-inc.com
-    url: http://www.shinsegae-inc.com
-
-  - name: 조선호텔 www.echosunhotel.com
-    url: http://www.echosunhotel.com
-
-  - name: 신세계사이먼 www.premiumoutlets.co.kr
-    url: https://www.premiumoutlets.co.kr
-
-  - name: 신세계그룹 www.shinsegaegroupnewsroom.com
-    url: https://www.shinsegaegroupnewsroom.com
-
-  - name: 이마트24 www.emart24.co.kr
-    url: https://www.emart24.co.kr
-
-  - name: 자유CC www.jayucc.co.kr
-    url: https://www.jayucc.co.kr
-
-  - name: 스타벅스 www.starbucks.co.kr
-    url: https://www.starbucks.co.kr
-
-  - name: 까사미아 www.guud.com
-    url: http://www.guud.com
-
-  - name: 신세계푸드 www.shinsegaefood.com
-    url: http://www.shinsegaefood.com
-
-  - name: 스타필드 www.starfield.co.kr
-    url: http://www.starfield.co.kr
-
-  - name: 면세점몰 www.ssgdfm.com
-    url: http://www.ssgdfm.com
-
-  - name: SSG.COM www.ssg.com
-    url: http://www.ssg.com
-
-  - name: Goodmd total.good-md.com:5280
-    url: https://total.good-md.com:5280
-
-  - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
-    url: https://www.shinsegaetvshopping.com/broadcast/main
-
-  - name: 신세계TV쇼핑 모바일 m.shinsegaetvshopping.com
-    url: https://m.shinsegaetvshopping.com
-
-  - name: 신세계 프라퍼티 www.shinsegaeproperty.com
-    url: http://www.shinsegaeproperty.com
-
-  - name: 접속실패 테스트 www.google.com
-    url: http://www.google.com
+#  - name: 이마트 store.emart.com
+#    url: https://store.emart.com
+#  
+#  - name: 신세계닷컴 www.shinsegae.com
+#    url: http://www.shinsegae.com
+#
+#  - name: 에브리데이 www.emarteveryday.co.kr
+#    url: http://www.emarteveryday.co.kr
+#
+#  - name: 신세계 인터내셔날 www.sikorea.co.kr
+#    url: http://www.sikorea.co.kr
+#
+#  - name: 신세계L&B www.shinsegae-lnb.com
+#    url: http://www.shinsegae-lnb.com
+#
+#  - name: 신세계아이앤씨 www.shinsegae-inc.com
+#    url: http://www.shinsegae-inc.com
+#
+#  - name: 조선호텔 www.echosunhotel.com
+#    url: http://www.echosunhotel.com
+#
+#  - name: 신세계사이먼 www.premiumoutlets.co.kr
+#    url: https://www.premiumoutlets.co.kr
+#
+#  - name: 신세계그룹 www.shinsegaegroupnewsroom.com
+#    url: https://www.shinsegaegroupnewsroom.com
+#
+#  - name: 이마트24 www.emart24.co.kr
+#    url: https://www.emart24.co.kr
+#
+#  - name: 자유CC www.jayucc.co.kr
+#    url: https://www.jayucc.co.kr
+#
+#  - name: 스타벅스 www.starbucks.co.kr
+#    url: https://www.starbucks.co.kr
+#
+#  - name: 까사미아 www.guud.com
+#    url: http://www.guud.com
+#
+#  - name: 신세계푸드 www.shinsegaefood.com
+#    url: http://www.shinsegaefood.com
+#
+#  - name: 스타필드 www.starfield.co.kr
+#    url: http://www.starfield.co.kr
+#
+#  - name: 면세점몰 www.ssgdfm.com
+#    url: http://www.ssgdfm.com
+#
+#  - name: SSG.COM www.ssg.com
+#    url: http://www.ssg.com
+#
+#  - name: Goodmd total.good-md.com:5280
+#    url: https://total.good-md.com:5280
+#
+#  - name: 신세계TV쇼핑 www.shinsegaetvshopping.com
+#    url: https://www.shinsegaetvshopping.com/broadcast/main
+#
+#  - name: 신세계TV쇼핑 모바일 m.shinsegaetvshopping.com
+#    url: https://m.shinsegaetvshopping.com
+#
+#  - name: 신세계 프라퍼티 www.shinsegaeproperty.com
+#    url: http://www.shinsegaeproperty.com
+#
+#  - name: 접속실패 테스트 www.google.com
+#    url: http://www.google.com
 
 
 
