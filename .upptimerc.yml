@@ -23,6 +23,7 @@ sites:
 
   - name: 조선호텔 www.josunhotel.com
     url: http://www.josunhotel.com
+    maxResponseTime: 50000
 
   - name: 신세계사이먼 www.premiumoutlets.co.kr
     url: https://www.premiumoutlets.co.kr
