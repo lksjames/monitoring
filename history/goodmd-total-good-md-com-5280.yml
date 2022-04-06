@@ -1,7 +1,7 @@
 url: https://total.good-md.com:5280
-status: up
-code: 200
-responseTime: 769
-lastUpdated: 2022-04-05T19:24:34.407Z
+status: down
+code: 503
+responseTime: 1544
+lastUpdated: 2022-04-06T14:42:32.446Z
 startTime: Wed Mar 23 2022 03:59:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
