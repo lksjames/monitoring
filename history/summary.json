@@ -13,7 +13,7 @@
     "time": 1030,
     "timeDay": 1214,
     "timeWeek": 1092,
-    "timeMonth": 1034,
+    "timeMonth": 1043,
     "timeYear": 1030,
     "dailyMinutesDown": {
       "2022-03-23": 28
@@ -33,7 +33,7 @@
     "time": 1268,
     "timeDay": 1499,
     "timeWeek": 1360,
-    "timeMonth": 1277,
+    "timeMonth": 1282,
     "timeYear": 1268,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 1375,
     "timeDay": 1412,
     "timeWeek": 1433,
-    "timeMonth": 1374,
+    "timeMonth": 1380,
     "timeYear": 1375,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 1202,
     "timeDay": 1399,
     "timeWeek": 1196,
-    "timeMonth": 1180,
+    "timeMonth": 1182,
     "timeYear": 1202,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 1206,
     "timeDay": 2179,
     "timeWeek": 1317,
-    "timeMonth": 1304,
+    "timeMonth": 1317,
     "timeYear": 1206,
     "dailyMinutesDown": {}
   },
@@ -105,7 +105,7 @@
     "time": 2688,
     "timeDay": 2759,
     "timeWeek": 3085,
-    "timeMonth": 2796,
+    "timeMonth": 2822,
     "timeYear": 2688,
     "dailyMinutesDown": {
       "2022-04-24": 68
@@ -117,15 +117,15 @@
     "icon": "https://favicons.githubusercontent.com/www.josunhotel.com",
     "slug": "www-josunhotel-com",
     "status": "up",
-    "uptime": "95.26%",
+    "uptime": "95.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "95.26%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "95.30%",
     "time": 3744,
     "timeDay": 3799,
     "timeWeek": 3216,
-    "timeMonth": 3692,
+    "timeMonth": 3586,
     "timeYear": 3744,
     "dailyMinutesDown": {
       "2022-04-14": 109,
@@ -162,7 +162,7 @@
     "time": 1357,
     "timeDay": 1413,
     "timeWeek": 1337,
-    "timeMonth": 1322,
+    "timeMonth": 1329,
     "timeYear": 1357,
     "dailyMinutesDown": {}
   },
@@ -180,7 +180,7 @@
     "time": 1391,
     "timeDay": 1495,
     "timeWeek": 1420,
-    "timeMonth": 1369,
+    "timeMonth": 1373,
     "timeYear": 1391,
     "dailyMinutesDown": {}
   },
@@ -198,7 +198,7 @@
     "time": 1728,
     "timeDay": 1922,
     "timeWeek": 1793,
-    "timeMonth": 1743,
+    "timeMonth": 1744,
     "timeYear": 1728,
     "dailyMinutesDown": {
       "2022-03-23": 19
@@ -218,7 +218,7 @@
     "time": 2945,
     "timeDay": 3532,
     "timeWeek": 3038,
-    "timeMonth": 2966,
+    "timeMonth": 2968,
     "timeYear": 2945,
     "dailyMinutesDown": {}
   },
@@ -227,18 +227,20 @@
     "url": "https://www.starbucks.co.kr",
     "icon": "https://favicons.githubusercontent.com/www.starbucks.co.kr",
     "slug": "www-starbucks-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1667,
     "timeDay": 1825,
     "timeWeek": 1740,
-    "timeMonth": 1670,
+    "timeMonth": 1676,
     "timeYear": 1667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   },
   {
     "name": "까사미아 www.guud.com",
@@ -254,7 +256,7 @@
     "time": 1559,
     "timeDay": 2750,
     "timeWeek": 1855,
-    "timeMonth": 1611,
+    "timeMonth": 1562,
     "timeYear": 1559,
     "dailyMinutesDown": {}
   },
@@ -272,7 +274,7 @@
     "time": 2087,
     "timeDay": 2387,
     "timeWeek": 2200,
-    "timeMonth": 2123,
+    "timeMonth": 2126,
     "timeYear": 2087,
     "dailyMinutesDown": {}
   },
@@ -290,7 +292,7 @@
     "time": 1828,
     "timeDay": 2031,
     "timeWeek": 1832,
-    "timeMonth": 1851,
+    "timeMonth": 1853,
     "timeYear": 1828,
     "dailyMinutesDown": {}
   },
@@ -308,7 +310,7 @@
     "time": 2054,
     "timeDay": 1653,
     "timeWeek": 1914,
-    "timeMonth": 1992,
+    "timeMonth": 1951,
     "timeYear": 2054,
     "dailyMinutesDown": {}
   },
@@ -326,7 +328,7 @@
     "time": 3252,
     "timeDay": 3007,
     "timeWeek": 3851,
-    "timeMonth": 3331,
+    "timeMonth": 3330,
     "timeYear": 3252,
     "dailyMinutesDown": {}
   },
@@ -336,15 +338,15 @@
     "icon": "https://favicons.githubusercontent.com/total.good-md.com",
     "slug": "goodmd-total-good-md-com-5280",
     "status": "up",
-    "uptime": "89.48%",
+    "uptime": "89.56%",
     "uptimeDay": "81.70%",
     "uptimeWeek": "88.24%",
     "uptimeMonth": "89.18%",
-    "uptimeYear": "89.48%",
+    "uptimeYear": "89.56%",
     "time": 1038,
     "timeDay": 1201,
     "timeWeek": 1191,
-    "timeMonth": 1095,
+    "timeMonth": 1101,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2022-04-27": 263,
@@ -399,7 +401,7 @@
     "time": 620,
     "timeDay": 705,
     "timeWeek": 645,
-    "timeMonth": 632,
+    "timeMonth": 634,
     "timeYear": 620,
     "dailyMinutesDown": {}
   },
@@ -417,7 +419,7 @@
     "time": 100,
     "timeDay": 72,
     "timeWeek": 60,
-    "timeMonth": 90,
+    "timeMonth": 88,
     "timeYear": 100,
     "dailyMinutesDown": {}
   }
