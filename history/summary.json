@@ -227,19 +227,19 @@
     "url": "https://www.starbucks.co.kr",
     "icon": "https://favicons.githubusercontent.com/www.starbucks.co.kr",
     "slug": "www-starbucks-co-kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1667,
-    "timeDay": 1825,
-    "timeWeek": 1740,
-    "timeMonth": 1676,
-    "timeYear": 1667,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
+    "time": 1666,
+    "timeDay": 1685,
+    "timeWeek": 1716,
+    "timeMonth": 1672,
+    "timeYear": 1666,
     "dailyMinutesDown": {
-      "2022-04-28": 0
+      "2022-04-28": 28
     }
   },
   {
