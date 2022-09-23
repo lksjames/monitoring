@@ -204,18 +204,18 @@
     "icon": "https://favicons.githubusercontent.com/www.emart24.co.kr",
     "slug": "24-www-emart24-co-kr",
     "status": "down",
-    "uptime": "26.25%",
+    "uptime": "26.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.25%",
+    "uptimeYear": "26.24%",
     "time": 1737,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1737,
     "dailyMinutesDown": {
-      "2022-09-23": 172,
+      "2022-09-23": 282,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
@@ -441,9 +441,9 @@
     "url": "http://www.starfield.co.kr",
     "icon": "https://favicons.githubusercontent.com/www.starfield.co.kr",
     "slug": "www-starfield-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -452,7 +452,9 @@
     "timeWeek": 2071,
     "timeMonth": 1983,
     "timeYear": 1814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-23": 0
+    }
   },
   {
     "name": "면세점몰 www.ssgdfm.com",
