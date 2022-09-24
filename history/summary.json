@@ -125,18 +125,18 @@
     "icon": "https://favicons.githubusercontent.com/www.josunhotel.com",
     "slug": "www-josunhotel-com",
     "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "92.76%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.02%",
+    "uptime": "99.03%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.03%",
     "time": 3411,
     "timeDay": 3508,
     "timeWeek": 3519,
     "timeMonth": 3551,
     "timeYear": 3411,
     "dailyMinutesDown": {
-      "2022-09-24": 105,
+      "2022-09-24": 91,
       "2022-09-20": 44,
       "2022-09-19": 117,
       "2022-09-15": 21,
@@ -186,9 +186,9 @@
     "url": "https://www.shinsegaegroupnewsroom.com",
     "icon": "https://favicons.githubusercontent.com/www.shinsegaegroupnewsroom.com",
     "slug": "www-shinsegaegroupnewsroom-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +197,9 @@
     "timeWeek": 1390,
     "timeMonth": 1328,
     "timeYear": 1330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-24": 0
+    }
   },
   {
     "name": "이마트24 www.emart24.co.kr",
@@ -216,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 1737,
     "dailyMinutesDown": {
-      "2022-09-24": 654,
+      "2022-09-24": 692,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
