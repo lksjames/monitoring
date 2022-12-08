@@ -4,10 +4,10 @@
     "url": "https://store.emart.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.emart.com.ico",
     "slug": "store-emart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.55%",
     "time": 1078,
@@ -16,7 +16,7 @@
     "timeMonth": 1159,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2022-12-08": 20,
+      "2022-12-08": 22,
       "2022-10-17": 449,
       "2022-10-16": 1154,
       "2022-08-17": 28,
@@ -199,9 +199,9 @@
     "slug": "www-premiumoutlets-co-kr",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 1272,
     "timeDay": 5325,
@@ -209,7 +209,7 @@
     "timeMonth": 1556,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2022-12-08": 21,
+      "2022-12-08": 31,
       "2022-10-15": 153,
       "2022-10-14": 72
     }
@@ -404,9 +404,9 @@
     "slug": "cc-www-jayucc-co-kr",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 2963,
     "timeDay": 2489,
@@ -414,7 +414,7 @@
     "timeMonth": 2913,
     "timeYear": 2963,
     "dailyMinutesDown": {
-      "2022-12-08": 21
+      "2022-12-08": 31
     }
   },
   {
@@ -424,9 +424,9 @@
     "slug": "www-starbucks-co-kr",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 1644,
     "timeDay": 1254,
@@ -434,7 +434,7 @@
     "timeMonth": 1712,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2022-12-08": 30,
+      "2022-12-08": 40,
       "2022-04-28": 28
     }
   },
