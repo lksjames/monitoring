@@ -197,11 +197,11 @@
     "url": "https://www.premiumoutlets.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.premiumoutlets.co.kr.ico",
     "slug": "www-premiumoutlets-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 1272,
     "timeDay": 5325,
@@ -209,7 +209,7 @@
     "timeMonth": 1556,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2022-12-08": 19,
+      "2022-12-08": 21,
       "2022-10-15": 153,
       "2022-10-14": 72
     }
@@ -403,18 +403,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jayucc.co.kr.ico",
     "slug": "cc-www-jayucc-co-kr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 2963,
     "timeDay": 2489,
     "timeWeek": 2832,
     "timeMonth": 2913,
     "timeYear": 2963,
     "dailyMinutesDown": {
-      "2022-12-08": 11
+      "2022-12-08": 21
     }
   },
   {
@@ -423,18 +423,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starbucks.co.kr.ico",
     "slug": "www-starbucks-co-kr",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 1644,
     "timeDay": 1254,
     "timeWeek": 1619,
     "timeMonth": 1712,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2022-12-08": 20,
+      "2022-12-08": 30,
       "2022-04-28": 28
     }
   },
