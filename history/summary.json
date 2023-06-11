@@ -99,18 +99,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shinsegae-lnb.com.ico",
     "slug": "l-and-b-www-shinsegae-lnb-com",
     "status": "down",
-    "uptime": "89.38%",
+    "uptime": "89.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.05%",
+    "uptimeYear": "87.04%",
     "time": 1363,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2023-06-10": 1424,
+      "2023-06-11": 73,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -303,7 +304,8 @@
     "timeMonth": 0,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2023-06-10": 1425,
+      "2023-06-11": 73,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -542,8 +544,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   },
   {
@@ -595,9 +596,9 @@
     "slug": "www-guud-com",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "99.50%",
     "time": 2990,
     "timeDay": 2814,
@@ -605,7 +606,6 @@
     "timeMonth": 5573,
     "timeYear": 3317,
     "dailyMinutesDown": {
-      "2023-06-10": 10,
       "2023-06-08": 443,
       "2023-05-16": 287,
       "2023-04-24": 173,
