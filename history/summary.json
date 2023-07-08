@@ -69,7 +69,7 @@
     "timeDay": 920,
     "timeWeek": 981,
     "timeMonth": 1012,
-    "timeYear": 1335,
+    "timeYear": 1334,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -89,7 +89,7 @@
     "timeDay": 945,
     "timeWeek": 929,
     "timeMonth": 1094,
-    "timeYear": 1153,
+    "timeYear": 1154,
     "dailyMinutesDown": {
       "2023-01-25": 24
     }
@@ -100,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shinsegae-lnb.com.ico",
     "slug": "l-and-b-www-shinsegae-lnb-com",
     "status": "down",
-    "uptime": "84.27%",
+    "uptime": "84.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "79.66%",
+    "uptimeYear": "79.64%",
     "time": 1372,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1415,
+    "timeYear": 1416,
     "dailyMinutesDown": {
-      "2023-07-07": 1393,
+      "2023-07-08": 73,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -207,7 +208,7 @@
     "timeDay": 1740,
     "timeWeek": 1495,
     "timeMonth": 1509,
-    "timeYear": 1649,
+    "timeYear": 1644,
     "dailyMinutesDown": {
       "2023-06-07": 109,
       "2023-01-25": 23
@@ -228,7 +229,7 @@
     "timeDay": 9161,
     "timeWeek": 5698,
     "timeMonth": 5726,
-    "timeYear": 3853,
+    "timeYear": 3855,
     "dailyMinutesDown": {
       "2023-02-07": 63,
       "2023-02-01": 18,
@@ -280,7 +281,7 @@
     "timeDay": 1561,
     "timeWeek": 1312,
     "timeMonth": 1357,
-    "timeYear": 1232,
+    "timeYear": 1233,
     "dailyMinutesDown": {
       "2023-02-06": 58,
       "2023-01-25": 22,
@@ -317,7 +318,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emart24.co.kr.ico",
     "slug": "24-www-emart24-co-kr",
     "status": "down",
-    "uptime": "36.90%",
+    "uptime": "36.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -328,7 +329,8 @@
     "timeMonth": 0,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2023-07-07": 1393,
+      "2023-07-08": 74,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -567,8 +569,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440
+      "2022-07-09": 1440
     }
   },
   {
@@ -607,7 +608,7 @@
     "timeDay": 2746,
     "timeWeek": 1981,
     "timeMonth": 1891,
-    "timeYear": 1710,
+    "timeYear": 1711,
     "dailyMinutesDown": {
       "2023-01-25": 20,
       "2022-12-08": 65
@@ -620,17 +621,16 @@
     "slug": "www-guud-com",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "99.44%",
     "time": 3211,
     "timeDay": 4850,
     "timeWeek": 4936,
     "timeMonth": 6848,
-    "timeYear": 3674,
+    "timeYear": 3681,
     "dailyMinutesDown": {
-      "2023-07-07": 13,
       "2023-07-02": 17,
       "2023-06-28": 19,
       "2023-06-15": 171,
@@ -698,7 +698,7 @@
     "timeDay": 2228,
     "timeWeek": 2011,
     "timeMonth": 2034,
-    "timeYear": 1992,
+    "timeYear": 1993,
     "dailyMinutesDown": {
       "2023-06-06": 15,
       "2023-02-15": 39,
@@ -722,7 +722,7 @@
     "timeDay": 2029,
     "timeWeek": 2020,
     "timeMonth": 1992,
-    "timeYear": 2145,
+    "timeYear": 2146,
     "dailyMinutesDown": {
       "2023-05-27": 70,
       "2023-01-25": 19,
@@ -746,7 +746,7 @@
     "timeDay": 3957,
     "timeWeek": 3955,
     "timeMonth": 3702,
-    "timeYear": 3419,
+    "timeYear": 3421,
     "dailyMinutesDown": {
       "2023-02-01": 17,
       "2023-01-25": 18
@@ -905,7 +905,7 @@
     "timeDay": 62,
     "timeWeek": 102,
     "timeMonth": 125,
-    "timeYear": 101,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   }
 ]
