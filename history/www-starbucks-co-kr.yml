@@ -1,7 +1,7 @@
 url: https://www.starbucks.co.kr
-status: down
-code: 403
-responseTime: 2399
-lastUpdated: 2023-10-18T18:31:14.602Z
+status: up
+code: 200
+responseTime: 1830
+lastUpdated: 2023-10-18T18:41:06.704Z
 startTime: 2022-03-23T01:23:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
