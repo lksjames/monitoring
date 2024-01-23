@@ -1,7 +1,7 @@
 url: http://www.ssg.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-23T15:06:56.787Z
+status: up
+code: 200
+responseTime: 4651
+lastUpdated: 2024-01-23T15:22:04.240Z
 startTime: 2022-03-23T01:23:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
