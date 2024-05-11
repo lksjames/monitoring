@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.emart.com.ico",
     "slug": "store-emart-com",
     "status": "down",
-    "uptime": "98.62%",
+    "uptime": "98.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.63%",
-    "uptimeYear": "97.49%",
+    "uptimeMonth": "70.41%",
+    "uptimeYear": "97.48%",
     "time": 884,
     "timeDay": 932,
     "timeWeek": 875,
     "timeMonth": 809,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2024-05-10": 1400,
+      "2024-05-11": 53,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -88,14 +89,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.80%",
+    "uptimeYear": "39.78%",
     "time": 1081,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-05-10": 1400,
+      "2024-05-11": 53,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -323,11 +325,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shinsegae-lnb.com.ico",
     "slug": "l-and-b-www-shinsegae-lnb-com",
     "status": "up",
-    "uptime": "60.33%",
+    "uptime": "60.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.69%",
+    "uptimeYear": "19.71%",
     "time": 1568,
     "timeDay": 2054,
     "timeWeek": 1969,
@@ -625,8 +627,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -755,7 +756,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.77%",
+    "uptimeYear": "75.79%",
     "time": 2215,
     "timeDay": 2393,
     "timeWeek": 2617,
@@ -854,8 +855,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -909,17 +909,17 @@
     "slug": "www-guud-com",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "89.55%",
-    "uptimeMonth": "94.79%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "91.84%",
+    "uptimeWeek": "89.62%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "99.23%",
     "time": 7336,
-    "timeDay": 11259,
+    "timeDay": 11057,
     "timeWeek": 11235,
     "timeMonth": 11584,
     "timeYear": 8212,
     "dailyMinutesDown": {
-      "2024-05-10": 123,
+      "2024-05-10": 117,
       "2024-05-09": 180,
       "2024-05-08": 222,
       "2024-05-07": 174,
@@ -945,7 +945,7 @@
       "2023-06-28": 19,
       "2023-06-15": 171,
       "2023-06-14": 142,
-      "2023-06-08": 243
+      "2023-06-08": 326
     }
   },
   {
