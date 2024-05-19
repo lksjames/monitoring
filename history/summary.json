@@ -8,15 +8,16 @@
     "uptime": "97.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.25%",
-    "uptimeYear": "95.30%",
+    "uptimeMonth": "44.10%",
+    "uptimeYear": "95.28%",
     "time": 885,
     "timeDay": 945,
     "timeWeek": 834,
     "timeMonth": 823,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2024-05-18": 1433,
+      "2024-05-19": 58,
+      "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -96,14 +97,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.60%",
+    "uptimeYear": "37.59%",
     "time": 1080,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-05-18": 1433,
+      "2024-05-19": 58,
+      "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -343,7 +345,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.89%",
+    "uptimeYear": "21.90%",
     "time": 1582,
     "timeDay": 2154,
     "timeWeek": 1857,
@@ -633,8 +635,7 @@
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
-      "2023-05-21": 1440,
-      "2023-05-20": 1440
+      "2023-05-21": 1440
     }
   },
   {
@@ -759,11 +760,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emart24.co.kr.ico",
     "slug": "24-www-emart24-co-kr",
     "status": "up",
-    "uptime": "58.34%",
+    "uptime": "58.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.97%",
+    "uptimeYear": "77.98%",
     "time": 2212,
     "timeDay": 2632,
     "timeWeek": 2250,
@@ -854,8 +855,7 @@
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
-      "2023-05-21": 1440,
-      "2023-05-20": 1440
+      "2023-05-21": 1440
     }
   },
   {
@@ -908,10 +908,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.guud.com.ico",
     "slug": "www-guud-com",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.16%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "93.92%",
+    "uptime": "99.76%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "91.33%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 8309,
     "timeDay": 13187,
@@ -919,7 +919,7 @@
     "timeMonth": 11896,
     "timeYear": 8791,
     "dailyMinutesDown": {
-      "2024-05-18": 85,
+      "2024-05-18": 75,
       "2024-05-17": 58,
       "2024-05-16": 207,
       "2024-05-15": 84,
@@ -937,7 +937,7 @@
       "2024-05-03": 150,
       "2024-05-02": 238,
       "2024-05-01": 133,
-      "2024-04-30": 155
+      "2024-04-30": 173
     }
   },
   {
