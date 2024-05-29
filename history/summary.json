@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.emart.com.ico",
     "slug": "store-emart-com",
     "status": "down",
-    "uptime": "96.39%",
+    "uptime": "96.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.43%",
-    "uptimeYear": "92.59%",
+    "uptimeMonth": "11.23%",
+    "uptimeYear": "92.57%",
     "time": 874,
     "timeDay": 881,
     "timeWeek": 873,
     "timeMonth": 845,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2024-05-28": 1411,
+      "2024-05-29": 58,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -60,7 +61,7 @@
     "uptimeYear": "99.94%",
     "time": 1299,
     "timeDay": 1526,
-    "timeWeek": 1420,
+    "timeWeek": 1414,
     "timeMonth": 1386,
     "timeYear": 1308,
     "dailyMinutesDown": {
@@ -105,14 +106,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.86%",
+    "uptimeYear": "34.85%",
     "time": 1074,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-05-28": 1411,
+      "2024-05-29": 58,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -362,7 +364,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.63%",
+    "uptimeYear": "24.64%",
     "time": 1599,
     "timeDay": 1520,
     "timeWeek": 1863,
@@ -642,8 +644,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -706,7 +707,7 @@
     "uptimeYear": "99.90%",
     "time": 1719,
     "timeDay": 2098,
-    "timeWeek": 2184,
+    "timeWeek": 2154,
     "timeMonth": 2097,
     "timeYear": 1925,
     "dailyMinutesDown": {
@@ -772,10 +773,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.71%",
+    "uptimeYear": "80.72%",
     "time": 2235,
     "timeDay": 2239,
-    "timeWeek": 2415,
+    "timeWeek": 2400,
     "timeMonth": 2389,
     "timeYear": 2346,
     "dailyMinutesDown": {
@@ -853,8 +854,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -908,9 +908,9 @@
     "slug": "www-guud-com",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "82.52%",
-    "uptimeWeek": "86.30%",
-    "uptimeMonth": "93.87%",
+    "uptimeDay": "83.22%",
+    "uptimeWeek": "86.98%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 8981,
     "timeDay": 16008,
@@ -918,7 +918,7 @@
     "timeMonth": 12399,
     "timeYear": 9596,
     "dailyMinutesDown": {
-      "2024-05-28": 253,
+      "2024-05-28": 243,
       "2024-05-27": 125,
       "2024-05-26": 86,
       "2024-05-25": 129,
@@ -935,7 +935,8 @@
       "2024-05-14": 126,
       "2024-05-13": 268,
       "2024-05-12": 54,
-      "2024-05-11": 59
+      "2024-05-11": 59,
+      "2024-05-10": 15
     }
   },
   {
@@ -973,7 +974,7 @@
     "uptimeYear": "99.99%",
     "time": 1976,
     "timeDay": 2448,
-    "timeWeek": 2304,
+    "timeWeek": 2044,
     "timeMonth": 1968,
     "timeYear": 1930,
     "dailyMinutesDown": {
@@ -990,11 +991,11 @@
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.52%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "98.66%",
     "time": 2046,
     "timeDay": 2494,
-    "timeWeek": 2298,
+    "timeWeek": 2239,
     "timeMonth": 2247,
     "timeYear": 2011,
     "dailyMinutesDown": {
@@ -1040,12 +1041,12 @@
     "status": "up",
     "uptime": "98.61%",
     "uptimeDay": "88.31%",
-    "uptimeWeek": "88.22%",
+    "uptimeWeek": "88.42%",
     "uptimeMonth": "88.73%",
     "uptimeYear": "96.96%",
     "time": 999,
     "timeDay": 1057,
-    "timeWeek": 954,
+    "timeWeek": 961,
     "timeMonth": 1030,
     "timeYear": 983,
     "dailyMinutesDown": {
@@ -1161,7 +1162,7 @@
     "uptimeYear": "100.00%",
     "time": 476,
     "timeDay": 610,
-    "timeWeek": 474,
+    "timeWeek": 457,
     "timeMonth": 454,
     "timeYear": 432,
     "dailyMinutesDown": {}
