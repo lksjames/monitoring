@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.94%",
+    "uptimeYear": "90.93%",
     "time": 847,
     "timeDay": 1340,
     "timeWeek": 909,
     "timeMonth": 869,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2024-06-03": 1436,
+      "2024-06-04": 56,
+      "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -109,18 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sikorea.co.kr.ico",
     "slug": "www-sikorea-co-kr",
     "status": "down",
-    "uptime": "69.68%",
+    "uptime": "69.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.22%",
+    "uptimeYear": "33.20%",
     "time": 1072,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2024-06-03": 1436,
+      "2024-06-04": 56,
+      "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -376,7 +378,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.27%",
+    "uptimeYear": "26.29%",
     "time": 1614,
     "timeDay": 1749,
     "timeWeek": 1656,
@@ -650,8 +652,7 @@
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
-      "2023-06-06": 1440,
-      "2023-06-05": 1440
+      "2023-06-06": 1440
     }
   },
   {
@@ -783,7 +784,7 @@
     "uptimeDay": "98.75%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "82.35%",
+    "uptimeYear": "82.36%",
     "time": 2248,
     "timeDay": 2521,
     "timeWeek": 2297,
@@ -859,8 +860,7 @@
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
-      "2023-06-06": 1440,
-      "2023-06-05": 1440
+      "2023-06-06": 1440
     }
   },
   {
