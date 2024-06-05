@@ -16,7 +16,7 @@
     "timeMonth": 871,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2024-06-05": 1371,
+      "2024-06-05": 1381,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2024-06-05": 1371,
+      "2024-06-05": 1381,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
@@ -913,19 +913,19 @@
     "url": "http://www.guud.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.guud.com.ico",
     "slug": "www-guud-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "90.50%",
+    "uptimeDay": "90.46%",
     "uptimeWeek": "88.90%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "99.47%",
-    "time": 9771,
-    "timeDay": 14546,
+    "uptimeMonth": "93.74%",
+    "uptimeYear": "99.48%",
+    "time": 9777,
+    "timeDay": 13943,
     "timeWeek": 14886,
     "timeMonth": 12961,
     "timeYear": 10280,
     "dailyMinutesDown": {
-      "2024-06-05": 137,
+      "2024-06-05": 138,
       "2024-06-04": 249,
       "2024-06-03": 254,
       "2024-06-02": 185,
@@ -940,7 +940,7 @@
       "2024-05-24": 274,
       "2024-05-23": 249,
       "2024-05-22": 265,
-      "2024-05-21": 125
+      "2024-05-21": 95
     }
   },
   {
