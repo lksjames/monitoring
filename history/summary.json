@@ -16,7 +16,7 @@
     "timeMonth": 860,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2024-06-06": 142,
+      "2024-06-06": 163,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
@@ -112,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sikorea.co.kr.ico",
     "slug": "www-sikorea-co-kr",
     "status": "down",
-    "uptime": "69.50%",
+    "uptime": "69.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -123,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2024-06-06": 142,
+      "2024-06-06": 163,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
@@ -912,19 +912,19 @@
     "url": "http://www.guud.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.guud.com.ico",
     "slug": "www-guud-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "92.02%",
+    "uptimeDay": "91.98%",
     "uptimeWeek": "88.50%",
-    "uptimeMonth": "93.65%",
+    "uptimeMonth": "93.69%",
     "uptimeYear": "99.47%",
-    "time": 9819,
+    "time": 9823,
     "timeDay": 15088,
     "timeWeek": 15115,
     "timeMonth": 13058,
     "timeYear": 10323,
     "dailyMinutesDown": {
-      "2024-06-06": 40,
+      "2024-06-06": 41,
       "2024-06-05": 137,
       "2024-06-04": 249,
       "2024-06-03": 254,
@@ -940,7 +940,7 @@
       "2024-05-24": 274,
       "2024-05-23": 249,
       "2024-05-22": 265,
-      "2024-05-21": 95
+      "2024-05-21": 75
     }
   },
   {
